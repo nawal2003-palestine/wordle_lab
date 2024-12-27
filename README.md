@@ -20,7 +20,7 @@ The project has the following modules:
 
 5-letter words of the English dictionary are in `wordle_package/assets/words.txt`. Each line of the document has a word.
 
-Download the skeleton for the lab and implement the functions for the game.
+Download the skeleton for the lab and implement the functions for the game. The repository for the lab can be found [here](https://github.com/calleann/wordle_lab).
 
 ## word choice
 
