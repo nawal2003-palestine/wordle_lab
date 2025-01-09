@@ -20,7 +20,7 @@ Welcome to **Wordle**, a Python implementation of the popular word-guessing game
 ## 🚀 How to Play  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sh15935/Wordle-game
+   git clone https://github.com/nawal2003-palestine/Wordle-game.git
    cd Wordle-game
    ```
 2. Ensure you have Python 3 installed.  
@@ -73,8 +73,7 @@ The game includes the following modules:
 
 ## 🎮 Example Gameplay  
 ```
-https://github.com/nawal2003-palestine/Wordle-game/blob/main/outputs/1.png
-
+![Alt text](<img width="458" alt="1" src="https://github.com/user-attachments/assets/742dd0c8-103c-4ab5-b2ae-b48eca23aabd" />)
 ```
 
 ---
