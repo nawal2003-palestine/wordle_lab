@@ -73,7 +73,8 @@ The game includes the following modules:
 
 ## 🎮 Example Gameplay  
 ```
-![Alt text](<img width="458" alt="1" src="https://github.com/user-attachments/assets/742dd0c8-103c-4ab5-b2ae-b48eca23aabd" />)
+![Alt text]https://github.com/nawal2003-palestine/Wordle-game/blob/main/outputs/1.png
+
 ```
 
 ---
