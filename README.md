@@ -68,18 +68,7 @@ The game includes the following modules:
 └── README.md                   # Project documentation
 ```
 
-
 ---
-
-## 🎮 Example Gameplay  
-```
-![Alt text](https://github.com/nawal2003-palestine/Wordle-game/outputs/1.png)
-
-
-```
-
----
-
 ## 🤝 Contributions  
 Contributions are welcome! To contribute:  
 1. Fork this repository.  
