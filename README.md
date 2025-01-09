@@ -20,8 +20,8 @@ Welcome to **Wordle**, a Python implementation of the popular word-guessing game
 ## 🚀 How to Play  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/wordle-game.git
-   cd wordle-game
+   git clone https://github.com/sh15935/Wordle-game
+   cd Wordle-game
    ```
 2. Ensure you have Python 3 installed.  
 3. Run the game:  
@@ -73,16 +73,8 @@ The game includes the following modules:
 
 ## 🎮 Example Gameplay  
 ```
-Welcome to Wordle!
-Guess the 5-letter word in 6 attempts.
+<img width="458" alt="1" src="https://github.com/user-attachments/assets/a1b4d14f-37fa-424b-886a-12d519dbd38b" />
 
-Attempt 1/6
-Enter a 5-letter word: apple
-Feedback: 🟩🟥🟨🟨🟩
-
-Attempt 2/6
-Enter a 5-letter word: alert
-Congratulations! You've guessed the word in 2 attempts.
 ```
 
 ---
